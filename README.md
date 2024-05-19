@@ -45,7 +45,7 @@ Just like the heroes of UA High School, I strive to push my limits and use my qu
 ## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shimaafathielsayed/)
-[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram)](@shimaafathi4)
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/shimaafathi4)
 ---
 
 "Plus Ultra! Go beyond your limits!" - All Might
