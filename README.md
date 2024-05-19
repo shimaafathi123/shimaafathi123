@@ -6,20 +6,18 @@
 
 Just like the heroes of UA High School, I strive to push my limits and use my quirks (skills) to make the world a better place through technology.
 
-<br><br>
 
 ## About Me
 
-<div style="text-align: right;">
-  <img src="https://github.com/shimaafathi123/shimaafathi123/assets/93112282/feeffba1-3079-43bb-ac38-6e239ceebb98"  width="300" align="right" />
-</div>
 
 - 🦸‍♂️ **Pro Hero Name:** Code Breaker
 - 💻 **Quirk:** Full-Stack Development
 - 🌟 **Affiliation:** Junior Software Engineer
 - 📍 **Location:** Cairo, Egypt
 
-<br><br>
+<div style="text-align: right;">
+  <img src="https://github.com/shimaafathi123/shimaafathi123/assets/93112282/feeffba1-3079-43bb-ac38-6e239ceebb98"  width="300" align="right" />
+</div>
 
 ## My Skills and Quirks
 
