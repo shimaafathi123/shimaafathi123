@@ -1,5 +1,3 @@
-# Hi there, I'm Shimaa Fathi! 👋
-
 **PLUS ULTRA!**  *Go beyond your limits!* - All Might
 
 <div style="text-align: center;">
@@ -8,7 +6,7 @@
 
 **Greetings, Citizens!** 
 
-Just like the heroes of UA High, I am Shimaa Fathi, a passionate developer striving to **PLUS ULTRA** my skills and use them for good!   Think of me as Code Breaker, your friendly neighborhood **Full-Stack Dev** hero. >
+Just like the heroes of UA High, I am Shimaa Fathi, a passionate developer striving to **PLUS ULTRA** my skills and use them for good!   Think of me as Code Breaker, your friendly neighborhood **Full-Stack Dev** hero.
 
 ## About Me
 
