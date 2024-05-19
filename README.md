@@ -6,6 +6,7 @@ Just like the heroes of UA High School, I strive to push my limits and use my qu
 
 <br>
 <br>
+
 ## About Me
 
 - 🦸‍♂️ **Pro Hero Name:** Code Breaker
@@ -14,6 +15,8 @@ Just like the heroes of UA High School, I strive to push my limits and use my qu
 - 📍 **Location:** Cairo, Egypt
 
 <img src="https://github.com/shimaafathi123/shimaafathi123/assets/93112282/feeffba1-3079-43bb-ac38-6e239ceebb98" align="right" width="300" />
+<br>
+<br>
 
 ## My Skills and Quirks
 
