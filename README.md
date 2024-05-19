@@ -1,12 +1,10 @@
 # Hi there, I'm Shimaa Fathi! 👋
 
 <div style="float: right; margin-left: 20px;">
-  <img src="https://github.com/shimaafathi123/shimaafathi123/assets/93112282/8a807f2f-28e7-4fa2-ad3a-8360a707364e" width="450" />
+  <img src="https://github.com/shimaafathi123/shimaafathi123/assets/93112282/8a807f2f-28e7-4fa2-ad3a-8360a707364e" width="450" align="center" />
 </div>
 
 Just like the heroes of UA High School, I strive to push my limits and use my quirks (skills) to make the world a better place through technology.
-
-<br><br>
 
 ## About Me
 
