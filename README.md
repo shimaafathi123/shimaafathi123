@@ -4,9 +4,11 @@
 
 **PLUS ULTRA!** *Go beyond your limits!* - All Might
 
-<img align='right' src="https://github.com/shimaafathi123/shimaafathi123/assets/93112282/91b1f81c-bb73-4779-ab04-ec1cf614804b" width="230">
-  
-**Greetings, Citizens!**
+<div>
+  <img align='right' src="https://github.com/shimaafathi123/shimaafathi123/assets/93112282/91b1f81c-bb73-4779-ab04-ec1cf614804b" width="300">
+  <p><strong>Greetings, Citizens!</strong></p>
+</div>
+
 
 Just like the heroes of UA High, I am Shimaa Fathi, a passionate developer striving to **PLUS ULTRA** my skills and use them for good!  Think of me as Code Breaker, your friendly neighborhood **Full-Stack Dev** hero.
 
