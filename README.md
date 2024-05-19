@@ -1,19 +1,25 @@
 # Hi there, I'm Shimaa Fathi! 👋
-<img src="https://github.com/shimaafathi123/shimaafathi123/assets/93112282/8a807f2f-28e7-4fa2-ad3a-8360a707364e" align="right" width="300" />
+
+<div style="text-align: right;">
+  <img src="https://github.com/shimaafathi123/shimaafathi123/assets/93112282/8a807f2f-28e7-4fa2-ad3a-8360a707364e" width="300" />
+</div>
 
 Just like the heroes of UA High School, I strive to push my limits and use my quirks (skills) to make the world a better place through technology.
 
-<br>
+<br><br>
 
 ## About Me
-<img src="https://github.com/shimaafathi123/shimaafathi123/assets/93112282/feeffba1-3079-43bb-ac38-6e239ceebb98" align="right" width="300" />
+
+<div style="text-align: right;">
+  <img src="https://github.com/shimaafathi123/shimaafathi123/assets/93112282/feeffba1-3079-43bb-ac38-6e239ceebb98" width="300" />
+</div>
 
 - 🦸‍♂️ **Pro Hero Name:** Code Breaker
 - 💻 **Quirk:** Full-Stack Development
 - 🌟 **Affiliation:** Junior Software Engineer
 - 📍 **Location:** Cairo, Egypt
 
-<br>
+<br><br>
 
 ## My Skills and Quirks
 
@@ -22,7 +28,7 @@ Just like the heroes of UA High School, I strive to push my limits and use my qu
 - **Databases:** MySQL, MongoDB
 - **Tools:** Docker, Git
 
-<br>
+<br><br>
 
 ## Current Mission
 
@@ -30,15 +36,18 @@ Just like the heroes of UA High School, I strive to push my limits and use my qu
 - 🛠 Working on open-source projects to contribute to the developer community.
 - 📚 Studying the latest tech trends to stay ahead in the hero rankings.
 
-<br>
+<br><br>
 
 ## Contact Me
-<img src="https://github.com/shimaafathi123/shimaafathi123/assets/93112282/878ca8a9-2258-49c8-88cd-7aa97aca328b" align="right" width="300" />
+
+<div style="text-align: right;">
+  <img src="https://github.com/shimaafathi123/shimaafathi123/assets/93112282/878ca8a9-2258-49c8-88cd-7aa97aca328b" width="300" />
+</div>
 
 - 📫 How to reach me: shimaa.fathi.elsayed@gmail.com
 - 💼 LinkedIn: [Shimaa Fathi on LinkedIn](https://www.linkedin.com/in/shimaafathielsayed/)
 
-<br>
+<br><br>
 
 ## My GitHub Stats
 
@@ -48,7 +57,7 @@ Just like the heroes of UA High School, I strive to push my limits and use my qu
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
 
-<br>
+<br><br>
 
 ## Connect with me
 
@@ -59,4 +68,6 @@ Just like the heroes of UA High School, I strive to push my limits and use my qu
 
 "Plus Ultra! Go beyond your limits!" - All Might
 
-<img src="https://github.com/shimaafathi123/shimaafathi123/assets/93112282/91b1f81c-bb73-4779-ab04-ec1cf614804b" align="right" width="300" />
+<div style="text-align: right;">
+  <img src="https://github.com/shimaafathi123/shimaafathi123/assets/93112282/91b1f81c-bb73-4779-ab04-ec1cf614804b" width="300" />
+</div>
