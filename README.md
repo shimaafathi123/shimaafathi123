@@ -44,7 +44,7 @@ Just like the heroes of UA High School, I strive to push my limits and use my qu
 
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]shimaa.fathi.elsayed@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](shimaa.fathi.elsayed@gmail.com)
 
 ---
 
