@@ -1,7 +1,7 @@
 # Hi there, I'm Shimaa Fathi! 👋
 
 <div style="float: right; margin-left: 20px;">
-  <img src="https://github.com/shimaafathi123/shimaafathi123/assets/93112282/8a807f2f-28e7-4fa2-ad3a-8360a707364e" width="300" />
+  <img src="https://github.com/shimaafathi123/shimaafathi123/assets/93112282/8a807f2f-28e7-4fa2-ad3a-8360a707364e" width="450" />
 </div>
 
 Just like the heroes of UA High School, I strive to push my limits and use my quirks (skills) to make the world a better place through technology.
@@ -11,7 +11,7 @@ Just like the heroes of UA High School, I strive to push my limits and use my qu
 ## About Me
 
 <div style="float: right; margin-left: 20px;">
-  <img src="https://github.com/shimaafathi123/shimaafathi123/assets/93112282/feeffba1-3079-43bb-ac38-6e239ceebb98" width="300" />
+  <img src="https://github.com/shimaafathi123/shimaafathi123/assets/93112282/feeffba1-3079-43bb-ac38-6e239ceebb98" width="450" />
 </div>
 
 - 🦸‍♂️ **Pro Hero Name:** Code Breaker
@@ -33,7 +33,7 @@ Just like the heroes of UA High School, I strive to push my limits and use my qu
 ## Current Mission
 
 <div style="float: right; margin-left: 20px;">
-  <img src="https://github.com/shimaafathi123/shimaafathi123/assets/93112282/878ca8a9-2258-49c8-88cd-7aa97aca328b" width="300" />
+  <img src="https://github.com/shimaafathi123/shimaafathi123/assets/93112282/878ca8a9-2258-49c8-88cd-7aa97aca328b" width="450" />
 </div>
 
 - 🌱 Training at the Information Technology Institute (ITI) in the Open Source Application Development Track.
@@ -69,5 +69,5 @@ Just like the heroes of UA High School, I strive to push my limits and use my qu
 "Plus Ultra! Go beyond your limits!" - All Might
 
 <div style="text-align: right;">
-  <img src="https://github.com/shimaafathi123/shimaafathi123/assets/93112282/91b1f81c-bb73-4779-ab04-ec1cf614804b" width="300" />
+  <img src="https://github.com/shimaafathi123/shimaafathi123/assets/93112282/91b1f81c-bb73-4779-ab04-ec1cf614804b" width="450" />
 </div>
