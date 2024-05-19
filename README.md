@@ -1,23 +1,22 @@
 # Hi there, I'm Shimaa Fathi! 👋
 
+
+Just like the heroes of UA High School, I strive to push my limits and use my quirks (skills) to make the world a better place through technology.
 <div style="float: right; margin-left: 20px;">
   <img src="https://github.com/shimaafathi123/shimaafathi123/assets/93112282/8a807f2f-28e7-4fa2-ad3a-8360a707364e" width="450" align="center" />
 </div>
 
-Just like the heroes of UA High School, I strive to push my limits and use my quirks (skills) to make the world a better place through technology.
-
 ## About Me
 
-<div style="float: right; margin-left: 20px;">
-  <img src="https://github.com/shimaafathi123/shimaafathi123/assets/93112282/feeffba1-3079-43bb-ac38-6e239ceebb98" width="450" />
-</div>
 
 - 🦸‍♂️ **Pro Hero Name:** Code Breaker
 - 💻 **Quirk:** Full-Stack Development
 - 🌟 **Affiliation:** Junior Software Engineer
 - 📍 **Location:** Cairo, Egypt
 
-<br><br>
+<div style="float: right; margin-left: 20px;">
+  <img src="https://github.com/shimaafathi123/shimaafathi123/assets/93112282/feeffba1-3079-43bb-ac38-6e239ceebb98" width="450" />
+</div>
 
 ## My Skills and Quirks
 
@@ -25,8 +24,6 @@ Just like the heroes of UA High School, I strive to push my limits and use my qu
 - **Frameworks:** React, Node.js, Django, Angular, Laravel, VueJS
 - **Databases:** MySQL, MongoDB
 - **Tools:** Docker, Git
-
-<br><br>
 
 ## Current Mission
 
@@ -38,14 +35,10 @@ Just like the heroes of UA High School, I strive to push my limits and use my qu
 - 🛠 Working on open-source projects to contribute to the developer community.
 - 📚 Studying the latest tech trends to stay ahead in the hero rankings.
 
-<br><br>
-
 ## Contact Me
 
 - 📫 How to reach me: shimaa.fathi.elsayed@gmail.com
 - 💼 LinkedIn: [Shimaa Fathi on LinkedIn](https://www.linkedin.com/in/shimaafathielsayed/)
-
-<br><br>
 
 ## My GitHub Stats
 
