@@ -1,11 +1,7 @@
+**PLUS ULTRA!** *Go beyond your limits!* - All Might
+
 <div class="text-center">
   <img src="https://github.com/shimaafathi123/shimaafathi123/assets/93112282/91b1f81c-bb73-4779-ab04-ec1cf614804b" width="500" alt="All Might"/>
-</div>
-
-<h1 class="text-center">**PLUS ULTRA!** *Go beyond your limits!* - All Might</h1>
-
-<div class="text-center">
-  <img src="https://github.com/shimaafathi123/shimaafathi123/assets/93112282/feeffba1-3079-43bb-ac38-6e239ceebb98" width="450" />
 </div>
 
 **Greetings, Citizens!**
@@ -19,6 +15,10 @@ Just like the heroes of UA High, I am Shimaa Fathi, a passionate developer striv
 - 🌟 **Affiliation:** Junior Software Engineer
 - 📍 **Location:** Cairo, Egypt
 
+<div class="float-right" style="margin-left: 20px;">
+  <img src="https://github.com/shimaafathi123/shimaafathi123/assets/93112282/feeffba1-3079-43bb-ac38-6e239ceebb98" width="450" />
+</div>
+
 ## My Skills and Quirks
 
 - **Languages:** JavaScript, Python, Java, C, C++, Bash, Ruby, TypeScript, PHP
@@ -28,7 +28,7 @@ Just like the heroes of UA High, I am Shimaa Fathi, a passionate developer striv
 
 ## Current Mission
 
-<div class="text-center">
+<div class="float-right" style="margin-left: 20px;">
   <img src="https://github.com/shimaafathi123/shimaafathi123/assets/93112282/878ca8a9-2258-49c8-88cd-7aa97aca328b" width="450" />
 </div>
 
@@ -54,6 +54,6 @@ Just like the heroes of UA High, I am Shimaa Fathi, a passionate developer striv
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shimaafathielsayed/)
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/shimaafathi4)
 
-<div class="text-center">
+<div class="text-right">
   <img src="https://github.com/shimaafathi123/shimaafathi123/assets/93112282/520242c7-905c-4285-9ea9-5144494a5170" width="450" />
 </div>
