@@ -57,8 +57,7 @@ Just like the heroes of UA High, I am Shimaa Fathi, a passionate developer striv
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shimaafathielsayed/)
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/shimaafathi4)
 
-"Plus Ultra! Go beyond your limits!" - All Might
 
 <div style="text-align: right;">
- <img src="https://github.com/shimaafathi123/shimaafathi123/assets/93112282/91b1f81c-bb73-4779-ab04-ec1cf614804b" width="450" />
+ <img src="https://github.com/shimaafathi123/shimaafathi123/assets/93112282/520242c7-905c-4285-9ea9-5144494a5170" width="450" />
 </div>
