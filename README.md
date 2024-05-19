@@ -8,66 +8,63 @@
 
 Just like the heroes of UA High, I am Shimaa Fathi, a passionate developer striving to **PLUS ULTRA** my skills and use them for good!  Think of me as Code Breaker, your friendly neighborhood **Full-Stack Dev** hero.
 
-## About Me
-Experienced software engineer proficient in developing dynamic web applications using a diverse range of technologies. 
-Skilled in front-end development with HTML, CSS, and JavaScript, along with expertise in popular frameworks including Angular, React, and Vue.js. 
-On the backend, adept at building robust systems with Node.js, Express, Django, and Laravel, leveraging RESTful APIs and MVC frameworks to create scalable and maintainable architectures. Experienced in deploying complex backend systems, web services, and databases to ensure seamless integration and optimal performance. 
-Passionate about delivering high-quality software solutions that meet both client needs and industry standards.
+const shimaa = {
+  aboutMe: `
+    Experienced software engineer proficient in developing dynamic web applications using a diverse range of technologies. 
+    Skilled in front-end development with HTML, CSS, and JavaScript, along with expertise in popular frameworks including Angular, React, and Vue.js. 
+    On the backend, adept at building robust systems with Node.js, Express, Django, and Laravel, leveraging RESTful APIs and MVC frameworks to create scalable and maintainable architectures. Experienced in deploying complex backend systems, web services, and databases to ensure seamless integration and optimal performance. 
+    Passionate about delivering high-quality software solutions that meet both client needs and industry standards.`,
+  proHeroName: "Code Breaker",
+  quirk: "Full-Stack Development",
+  affiliation: "Junior Software Engineer",
+  location: "Cairo, Egypt",
+  image: "https://github.com/shimaafathi123/shimaafathi123/assets/93112282/feeffba1-3079-43bb-ac38-6e239ceebb98",
+  skillsAndQuirks: {
+    backendTechnologies: ["Python | Django", "Node.js | Express.js", "PHP | Laravel", "Ruby | Rails", "WebSockets"],
+    frontendTechnologies: ["Angular.js", "React.js", "Vue.js", "HTML5 | CSS3", "Bootstrap", "JQuery | Ajax"],
+    databases: ["SQL", "MySQL", "MongoDB"],
+    designingAndDevelopment: ["OOP", "Rest API", "Unit Testing", "Problem-Solving", "Data structures | Algorithms", "Design Patterns | SDLC", "Agile Methodologies", "SOLID Principles", "Software System operation"],
+    operation: ["GIT Version Control | GitHub", "Docker (Application Container)", "Apache", "Linux Administration", "Bash Script"],
+    programmingLanguages: ["Java", "C | C++", "JavaScript | TypeScript"]
+  }
+};
 
-- 🦸‍♂️ **Pro Hero Name:** Code Breaker
-- 💻 **Quirk:** Full-Stack Development
-- 🌟 **Affiliation:** Junior Software Engineer
-- 📍 **Location:** Cairo, Egypt
+const formattedAboutMe = `
+## About Me
+
+${shimaa.aboutMe}
+
+- 🦸‍♂️ **Pro Hero Name:** ${shimaa.proHeroName}
+- 💻 **Quirk:** ${shimaa.quirk}
+- 🌟 **Affiliation:** ${shimaa.affiliation}
+- 📍 **Location:** ${shimaa.location}
 
 <div class="text-center" style="margin-top: 20px;">
-  <img src="https://github.com/shimaafathi123/shimaafathi123/assets/93112282/feeffba1-3079-43bb-ac38-6e239ceebb98" width="450" />
+  <img src="${shimaa.image}" width="450" />
 </div>
 
 ## My Skills and Quirks
 
 ### Backend Technologies:
-- Python | Django
-- Node.js | Express.js
-- PHP | Laravel
-- Ruby | Rails
-- WebSockets
+- ${shimaa.skillsAndQuirks.backendTechnologies.join("\n- ")}
 
 ### Frontend Technologies:
-- Angular.js
-- React.js
-- Vue.js
-- HTML5 | CSS3
-- Bootstrap
-- JQuery | Ajax
+- ${shimaa.skillsAndQuirks.frontendTechnologies.join("\n- ")}
 
 ### Databases:
-- SQL
-- MySQL
-- MongoDB
+- ${shimaa.skillsAndQuirks.databases.join("\n- ")}
 
 ### Designing and Development:
-- OOP
-- Rest API
-- Unit Testing
-- Problem-Solving
-- Data structures | Algorithms
-- Design Patterns | SDLC
-- Agile Methodologies
-- SOLID Principles
-- Software System operation
+- ${shimaa.skillsAndQuirks.designingAndDevelopment.join("\n- ")}
 
 ### Operation:
-- GIT Version Control | GitHub
-- Docker (Application Container)
-- Apache
-- Linux Administration
-- Bash Script
+- ${shimaa.skillsAndQuirks.operation.join("\n- ")}
 
 ### Programming Languages:
-- Java
-- C | C++
-- JavaScript | TypeScript
+- ${shimaa.skillsAndQuirks.programmingLanguages.join("\n- ")}
+`;
 
+console.log(formattedAboutMe);
 
 ## Contact Me
 
