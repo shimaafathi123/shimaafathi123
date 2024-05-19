@@ -21,20 +21,50 @@ Just like the heroes of UA High, I am Shimaa Fathi, a passionate developer striv
 
 ## My Skills and Quirks
 
-- **Languages:** JavaScript, Python, Java, C, C++, Bash, Ruby, TypeScript, PHP
-- **Frameworks:** React, Node.js, Django, Angular, Laravel, VueJS
-- **Databases:** MySQL, MongoDB
-- **Tools:** Docker, Git
+### Backend Technologies:
+- Python | Django
+- Node.js | Express.js
+- PHP | Laravel
+- Ruby | Rails
+- WebSockets
 
-## Current Mission
+### Frontend Technologies:
+- Angular.js
+- React.js
+- Vue.js
+- HTML5 | CSS3
+- Bootstrap
+- JQuery | Ajax
 
-<div class="text-center" style="margin-top: 20px;">
-  <img src="https://github.com/shimaafathi123/shimaafathi123/assets/93112282/878ca8a9-2258-49c8-88cd-7aa97aca328b" width="450" />
-</div>
+### Databases:
+- SQL
+- MySQL
+- MongoDB
 
-- 🌱 Training at the Information Technology Institute (ITI) in the Open Source Application Development Track.
-- 🛠 Working on open-source projects to contribute to the developer community.
-- 📚 Studying the latest tech trends to stay ahead in the hero rankings.
+### Designing and Development:
+- OOP
+- Rest API
+- Unit Testing
+- Problem-Solving
+- Data structures | Algorithms
+- Design Patterns | SDLC
+- Agile Methodologies
+- SOLID Principles
+- Software System operation
+
+### Operation:
+- GIT Version Control | GitHub
+- Docker (Application Container)
+- Apache
+- Linux Administration
+- Bash Script
+
+### Programming Languages:
+- Java
+- C | C++
+- JavaScript | TypeScript
+
+Experienced software engineer proficient in developing dynamic web applications using a diverse range of technologies. Skilled in front-end development with HTML, CSS, and JavaScript, along with expertise in popular frameworks including Angular, React, and Vue.js. On the backend, adept at building robust systems with Node.js, Express, Django, and Laravel, leveraging RESTful APIs and MVC frameworks to create scalable and maintainable architectures. Experienced in deploying complex backend systems, web services, and databases to ensure seamless integration and optimal performance. Passionate about delivering high-quality software solutions that meet both client needs and industry standards.
 
 ## Contact Me
 
