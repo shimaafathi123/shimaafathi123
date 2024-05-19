@@ -1,4 +1,4 @@
-<h2>PLUS ULTRA! Go beyond your limits! - All Might  <img src="https://github.com/shimaafathi123/shimaafathi123/assets/93112282/91b1f81c-bb73-4779-ab04-ec1cf614804b" width="500" alt="All Might"/></h2>
+<h2>PLUS ULTRA! Go beyond your limits! - All Might  <img src="https://github.com/shimaafathi123/shimaafathi123/assets/93112282/91b1f81c-bb73-4779-ab04-ec1cf614804b" width="50" alt="All Might"/></h2>
 
 **Greetings, Citizens!**
 
