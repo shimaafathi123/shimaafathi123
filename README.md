@@ -8,14 +8,24 @@
 
 Just like the heroes of UA High, I am Shimaa Fathi, a passionate developer striving to **PLUS ULTRA** my skills and use them for good!   Think of me as Code Breaker, your friendly neighborhood **Full-Stack Dev** hero.
 
-## About Me
+<details>
+  <summary>**About Me** (Click to Expand)</summary>
+  <p>
+    - ‍♂️ **Pro Hero Name:** Code Breaker
+    -  **Quirk:** Full-Stack Development
+    -  **Affiliation:** Junior Software Engineer
+    -  **Location:** Cairo, Egypt
+  </p>
+</details>
 
-
-- 🦸‍♂️ **Pro Hero Name:** Code Breaker
-- 💻 **Quirk:** Full-Stack Development
-- 🌟 **Affiliation:** Junior Software Engineer
-- 📍 **Location:** Cairo, Egypt
-
+<details>
+  <summary>**Current Mission** (Click to Expand)</summary>
+  <p>
+    -  Training at the Information Technology Institute (ITI) in the Open Source Application Development Track.
+    -  Working on open-source projects to contribute to the developer community.
+    -  Studying the latest tech trends to stay ahead in the hero rankings.
+  </p>
+</details>
 <div style="float: right; margin-left: 20px;">
   <img src="https://github.com/shimaafathi123/shimaafathi123/assets/93112282/feeffba1-3079-43bb-ac38-6e239ceebb98" width="450" />
 </div>
