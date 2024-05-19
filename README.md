@@ -9,6 +9,10 @@
 Just like the heroes of UA High, I am Shimaa Fathi, a passionate developer striving to **PLUS ULTRA** my skills and use them for good!  Think of me as Code Breaker, your friendly neighborhood **Full-Stack Dev** hero.
 
 ## About Me
+Experienced software engineer proficient in developing dynamic web applications using a diverse range of technologies. 
+Skilled in front-end development with HTML, CSS, and JavaScript, along with expertise in popular frameworks including Angular, React, and Vue.js. 
+On the backend, adept at building robust systems with Node.js, Express, Django, and Laravel, leveraging RESTful APIs and MVC frameworks to create scalable and maintainable architectures. Experienced in deploying complex backend systems, web services, and databases to ensure seamless integration and optimal performance. 
+Passionate about delivering high-quality software solutions that meet both client needs and industry standards.
 
 - 🦸‍♂️ **Pro Hero Name:** Code Breaker
 - 💻 **Quirk:** Full-Stack Development
@@ -64,7 +68,6 @@ Just like the heroes of UA High, I am Shimaa Fathi, a passionate developer striv
 - C | C++
 - JavaScript | TypeScript
 
-Experienced software engineer proficient in developing dynamic web applications using a diverse range of technologies. Skilled in front-end development with HTML, CSS, and JavaScript, along with expertise in popular frameworks including Angular, React, and Vue.js. On the backend, adept at building robust systems with Node.js, Express, Django, and Laravel, leveraging RESTful APIs and MVC frameworks to create scalable and maintainable architectures. Experienced in deploying complex backend systems, web services, and databases to ensure seamless integration and optimal performance. Passionate about delivering high-quality software solutions that meet both client needs and industry standards.
 
 ## Contact Me
 
