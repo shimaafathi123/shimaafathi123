@@ -1,21 +1,18 @@
 # Hi there, I'm Shimaa Fathi! 👋
 <img src="https://github.com/shimaafathi123/shimaafathi123/assets/93112282/8a807f2f-28e7-4fa2-ad3a-8360a707364e" align="right" width="300" />
 
-
 Just like the heroes of UA High School, I strive to push my limits and use my quirks (skills) to make the world a better place through technology.
 
 <br>
-<br>
 
 ## About Me
+<img src="https://github.com/shimaafathi123/shimaafathi123/assets/93112282/feeffba1-3079-43bb-ac38-6e239ceebb98" align="right" width="300" />
 
 - 🦸‍♂️ **Pro Hero Name:** Code Breaker
 - 💻 **Quirk:** Full-Stack Development
 - 🌟 **Affiliation:** Junior Software Engineer
 - 📍 **Location:** Cairo, Egypt
 
-<img src="https://github.com/shimaafathi123/shimaafathi123/assets/93112282/feeffba1-3079-43bb-ac38-6e239ceebb98" align="right" width="300" />
-<br>
 <br>
 
 ## My Skills and Quirks
@@ -25,18 +22,23 @@ Just like the heroes of UA High School, I strive to push my limits and use my qu
 - **Databases:** MySQL, MongoDB
 - **Tools:** Docker, Git
 
+<br>
+
 ## Current Mission
 
 - 🌱 Training at the Information Technology Institute (ITI) in the Open Source Application Development Track.
 - 🛠 Working on open-source projects to contribute to the developer community.
 - 📚 Studying the latest tech trends to stay ahead in the hero rankings.
 
+<br>
+
 ## Contact Me
+<img src="https://github.com/shimaafathi123/shimaafathi123/assets/93112282/878ca8a9-2258-49c8-88cd-7aa97aca328b" align="right" width="300" />
 
 - 📫 How to reach me: shimaa.fathi.elsayed@gmail.com
 - 💼 LinkedIn: [Shimaa Fathi on LinkedIn](https://www.linkedin.com/in/shimaafathielsayed/)
 
-<img src="https://github.com/shimaafathi123/shimaafathi123/assets/93112282/878ca8a9-2258-49c8-88cd-7aa97aca328b" align="right" width="300" />
+<br>
 
 ## My GitHub Stats
 
@@ -45,6 +47,8 @@ Just like the heroes of UA High School, I strive to push my limits and use my qu
 ## Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+
+<br>
 
 ## Connect with me
 
