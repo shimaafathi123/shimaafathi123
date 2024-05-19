@@ -69,5 +69,5 @@ Just like the heroes of UA High School, I strive to push my limits and use my qu
 "Plus Ultra! Go beyond your limits!" - All Might
 
 <div style="text-align: right;">
-  <img src="https://github.com/shimaafathi123/shimaafathi123/assets/93112282/91b1f81c-bb73-4779-ab04-ec1cf614804b"  width="300" align="Center" />
+  <img src="https://github.com/shimaafathi123/shimaafathi123/assets/93112282/91b1f81c-bb73-4779-ab04-ec1cf614804b" />
 </div>
