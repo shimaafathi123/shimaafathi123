@@ -16,25 +16,23 @@ Just like the heroes of UA High School, I strive to push my limits and use my qu
 
 ## My Skills and Quirks
 
-- **Languages:** JavaScript, Python, Java, C++
-- **Frameworks:** React, Node.js, Django, Spring Boot
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Tools:** Docker, Kubernetes, Git, Jenkins
-- **Special Moves:** Algorithm Design, System Architecture, Cloud Computing
-
+- **Languages:** JavaScript, Python, Java, C, C++, Bash, Ruby, TypScript, PHP
+- **Frameworks:** React, Node.js, Django, Angular, Laravel, VueJS
+- **Databases:** MySQL, MongoDB
+- **Tools:** Docker, Git
+  
 ## Current Mission
 
-- 🌱 Training at UA (University of Algorithms) to master Machine Learning and AI.
+- 🌱 Training at the Information Technology Institute (ITI) in the Open Source Application Development Track.
 - 🛠 Working on open-source projects to contribute to the developer community.
 - 📚 Studying the latest tech trends to stay ahead in the hero rankings.
 
 ## Contact Me
 
-- 📫 How to reach me: [Your Email]
-- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourusername)
-- 🐦 Twitter: [Your Twitter Profile](https://twitter.com/yourusername)
+- 📫 How to reach me: shimaa.fathi.elsayed@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/shimaafathielsayed/
 
-![Midoriya](https://your-image-url.com/midoriya.png)
+![deku-my-hero-academia](https://github.com/shimaafathi123/shimaafathi123/assets/93112282/878ca8a9-2258-49c8-88cd-7aa97aca328b)
 
 ## My GitHub Stats
 
@@ -46,11 +44,10 @@ Just like the heroes of UA High School, I strive to push my limits and use my qu
 
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]shimaa.fathi.elsayed@gmail.com
 
 ---
 
 "Plus Ultra! Go beyond your limits!" - All Might
 
-![Footer](https://your-image-url.com/footer.png)
+![giphy](https://github.com/shimaafathi123/shimaafathi123/assets/93112282/91b1f81c-bb73-4779-ab04-ec1cf614804b)
