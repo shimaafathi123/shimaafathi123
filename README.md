@@ -7,6 +7,7 @@
 **Greetings, Citizens!**
 
 Just like the heroes of UA High, I am Shimaa Fathi, a passionate developer striving to **PLUS ULTRA** my skills and use them for good!  Think of me as Code Breaker, your friendly neighborhood **Full-Stack Dev** hero.
+
 ## About Me
 Experienced software engineer proficient in developing dynamic web applications using a diverse range of technologies. 
 Skilled in front-end development with HTML, CSS, and JavaScript, along with expertise in popular frameworks including Angular, React, and Vue.js. 
@@ -67,28 +68,6 @@ Passionate about delivering high-quality software solutions that meet both clien
 - C | C++
 - JavaScript | TypeScript
 
-## My Skills and Quirks
-
-### Backend Technologies:
-- ${shimaa.skillsAndQuirks.backendTechnologies.join("\n- ")}
-
-### Frontend Technologies:
-- ${shimaa.skillsAndQuirks.frontendTechnologies.join("\n- ")}
-
-### Databases:
-- ${shimaa.skillsAndQuirks.databases.join("\n- ")}
-
-### Designing and Development:
-- ${shimaa.skillsAndQuirks.designingAndDevelopment.join("\n- ")}
-
-### Operation:
-- ${shimaa.skillsAndQuirks.operation.join("\n- ")}
-
-### Programming Languages:
-- ${shimaa.skillsAndQuirks.programmingLanguages.join("\n- ")}
-`;
-
-console.log(formattedAboutMe);
 
 ## Contact Me
 
