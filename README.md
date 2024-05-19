@@ -1,23 +1,25 @@
 # Hi there, I'm Shimaa Fathi! 👋
 
-<div style="text-align: right;">
-  <img src="https://github.com/shimaafathi123/shimaafathi123/assets/93112282/8a807f2f-28e7-4fa2-ad3a-8360a707364e" width="300" align="right" />
+<div style="float: right; margin-left: 20px;">
+  <img src="https://github.com/shimaafathi123/shimaafathi123/assets/93112282/8a807f2f-28e7-4fa2-ad3a-8360a707364e" width="300" />
 </div>
 
 Just like the heroes of UA High School, I strive to push my limits and use my quirks (skills) to make the world a better place through technology.
 
+<br><br>
 
 ## About Me
 
+<div style="float: right; margin-left: 20px;">
+  <img src="https://github.com/shimaafathi123/shimaafathi123/assets/93112282/feeffba1-3079-43bb-ac38-6e239ceebb98" width="300" />
+</div>
 
 - 🦸‍♂️ **Pro Hero Name:** Code Breaker
 - 💻 **Quirk:** Full-Stack Development
 - 🌟 **Affiliation:** Junior Software Engineer
 - 📍 **Location:** Cairo, Egypt
 
-<div style="text-align: right;">
-  <img src="https://github.com/shimaafathi123/shimaafathi123/assets/93112282/feeffba1-3079-43bb-ac38-6e239ceebb98"  width="300" align="right" />
-</div>
+<br><br>
 
 ## My Skills and Quirks
 
@@ -30,6 +32,10 @@ Just like the heroes of UA High School, I strive to push my limits and use my qu
 
 ## Current Mission
 
+<div style="float: right; margin-left: 20px;">
+  <img src="https://github.com/shimaafathi123/shimaafathi123/assets/93112282/878ca8a9-2258-49c8-88cd-7aa97aca328b" width="300" />
+</div>
+
 - 🌱 Training at the Information Technology Institute (ITI) in the Open Source Application Development Track.
 - 🛠 Working on open-source projects to contribute to the developer community.
 - 📚 Studying the latest tech trends to stay ahead in the hero rankings.
@@ -37,10 +43,6 @@ Just like the heroes of UA High School, I strive to push my limits and use my qu
 <br><br>
 
 ## Contact Me
-
-<div style="text-align: right;">
-  <img src="https://github.com/shimaafathi123/shimaafathi123/assets/93112282/878ca8a9-2258-49c8-88cd-7aa97aca328b"  width="300" align="right" />
-</div>
 
 - 📫 How to reach me: shimaa.fathi.elsayed@gmail.com
 - 💼 LinkedIn: [Shimaa Fathi on LinkedIn](https://www.linkedin.com/in/shimaafathielsayed/)
@@ -67,5 +69,5 @@ Just like the heroes of UA High School, I strive to push my limits and use my qu
 "Plus Ultra! Go beyond your limits!" - All Might
 
 <div style="text-align: right;">
-  <img src="https://github.com/shimaafathi123/shimaafathi123/assets/93112282/91b1f81c-bb73-4779-ab04-ec1cf614804b" />
+  <img src="https://github.com/shimaafathi123/shimaafathi123/assets/93112282/91b1f81c-bb73-4779-ab04-ec1cf614804b" width="300" />
 </div>
