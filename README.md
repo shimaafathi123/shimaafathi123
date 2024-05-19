@@ -42,20 +42,17 @@ Just like the heroes of UA High School, I strive to push my limits and use my qu
 
 ## My GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![Shimaa Fathi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shimaafathi123&show_icons=true&theme=tokyonight)
 
 ## Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shimaafathi123&layout=compact&theme=tokyonight)
 
-<br><br>
 
 ## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shimaafathielsayed/)
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/shimaafathi4)
-
----
 
 "Plus Ultra! Go beyond your limits!" - All Might
 
