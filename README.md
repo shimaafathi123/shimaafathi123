@@ -1,5 +1,5 @@
-![1353478](https://github.com/shimaafathi123/shimaafathi123/assets/93112282/ea0b1781-8d32-4dba-82e3-c3c0a5e743d6)
-![1353478](https://github.com/shimaafathi123/shimaafathi123/assets/93112282/4d4b2a15-1d46-45ab-9e65-68bb44929af5)
+
+![my-hero-academia-mha](https://github.com/shimaafathi123/shimaafathi123/assets/93112282/8a807f2f-28e7-4fa2-ad3a-8360a707364e)
 
 # Hi there, I'm Shimaa Fathi! 👋
 
