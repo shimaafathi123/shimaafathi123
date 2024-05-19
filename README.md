@@ -4,8 +4,8 @@
 # Hi there, I'm Shimaa Fathi! 👋
 
 Just like the heroes of UA High School, I strive to push my limits and use my quirks (skills) to make the world a better place through technology.
-![1356243](https://github.com/shimaafathi123/shimaafathi123/assets/93112282/40ab0333-f8f8-4840-b9d8-685cc7cd655d)
 
+![anime-boku-no-hero-academia](https://github.com/shimaafathi123/shimaafathi123/assets/93112282/feeffba1-3079-43bb-ac38-6e239ceebb98)
 
 ## About Me
 
