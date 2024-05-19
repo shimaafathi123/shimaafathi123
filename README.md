@@ -1,10 +1,14 @@
 # Hi there, I'm Shimaa Fathi! 👋
 
+**PLUS ULTRA!**  *Go beyond your limits!* - All Might
 
-Just like the heroes of UA High School, I strive to push my limits and use my quirks (skills) to make the world a better place through technology.
-<div style="float: right; margin-left: 20px;">
-  <img src="https://github.com/shimaafathi123/shimaafathi123/assets/93112282/8a807f2f-28e7-4fa2-ad3a-8360a707364e" width="450" align="center" />
+<div style="text-align: center;">
+  <img src="https://github.com/shimaafathi123/shimaafathi123/assets/93112282/91b1f81c-bb73-4779-ab04-ec1cf614804b" width="200" alt="All Might"/>
 </div>
+
+**Greetings, Citizens!** 
+
+Just like the heroes of UA High, I am Shimaa Fathi, a passionate developer striving to **PLUS ULTRA** my skills and use them for good!   Think of me as Code Breaker, your friendly neighborhood **Full-Stack Dev** hero. >
 
 ## About Me
 
