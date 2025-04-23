@@ -27,18 +27,6 @@ With a strong foundation in both web development and computer science principles
 
 ---
 
-### 😂 Dev Memes
-
-#### When you fix one bug and five more appear:
-![Bug Fixing](https://preview.redd.it/0zdx1c2cnfq81.jpg?width=640&crop=smart&auto=webp&s=02b03a13eea8ff3c248a5c73d52945c96e8d5e84)
-
-#### React Developers Be Like:
-![React Meme](https://preview.redd.it/why-do-react-developers-prefer-react-v0-svjxw7m23pea1.jpg?width=640&crop=smart&auto=webp&s=f6ef0f72c1dbe649173b06c72c8d305fb71e57ea)
-
-#### Git Workflow in Real Life:
-![Git Meme](https://miro.medium.com/v2/resize:fit:720/format:webp/1*FYkUQnIqv-ZzZbrHZsO3Wg.jpeg)
-
----
 
 ### 📊 GitHub Stats
 
