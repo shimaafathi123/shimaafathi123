@@ -30,15 +30,15 @@ With a strong foundation in both web development and computer science principles
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shimaafathi123&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shimaafathi123&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shimaafathi123&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
 ---
 
 ### 📫 Let's Connect!
 
-Feel free to check out my repositories and connect with me on [LinkedIn](https://www.linkedin.com) or just say hi!
+Feel free to check out my repositories and connect with me on [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/shimaafathielsayed/)) or just say hi!
 
