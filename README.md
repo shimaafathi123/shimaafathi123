@@ -1,48 +1,49 @@
-## 👋 Hey there! I'm a Frontend Developer
+👋 Hey there! I'm Shaima Fatshi — Frontend Developer & Odoo Learner
 
-I specialize in building responsive, accessible, and visually appealing web interfaces.  
-With a strong foundation in both web development and computer science principles, I strive to write clean, maintainable, and efficient code.
+I specialize in creating responsive, accessible, and visually appealing web interfaces, with a growing interest in business applications and ERP systems.
+Alongside frontend development, I also handle invoicing tasks and am currently learning Odoo implementation to bridge the gap between web development and business process automation.
 
----
+⚙️ Tech Stack & Skills
 
-### ⚙️ Tech Stack & Skills
+Frontend Development: HTML, CSS, JavaScript, React.js, Tailwind CSS, Bootstrap, Sass, Framer Motion, Axios
 
-- **Frontend**: HTML, CSS, JavaScript, React.js, Tailwind CSS, Bootstrap, Sass, Framer Motion, Axios  
-- **Programming Languages**: C, C++, Java, Python, Ruby, PHP  
-- **Databases**: MySQL, MongoDB  
-- **Tools & Concepts**: Git, GitHub, APIs, Object-Oriented Programming (OOP), Data Structures & Algorithms  
+Business & ERP: Invoicing, Data Entry, Odoo Implementation (in progress)
 
----
+Programming Languages: C, C++, Java, Python, Ruby, PHP
 
-### 🧰 Tools I Use
+Databases: MySQL, MongoDB
 
-![HTML](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-06b6d4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-cc6699?style=for-the-badge&logo=sass&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+Tools & Concepts: Git, GitHub, APIs, Object-Oriented Programming (OOP), Data Structures & Algorithms
 
----
+🧰 Tools I Use
 
 
-### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shimaafathi123&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shimaafathi123&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shimaafathi123&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
----
 
-### 📫 Let's Connect!
 
-Feel free to check out my repositories and connect with me on  
-[LinkedIn](https://www.linkedin.com/in/shimaafathielsayed/)
 
----
 
-🛠️ *Still building. Always learning.*
+
+
+
+
+
+
+
+
+📊 GitHub Stats
+
+
+
+
+
+
+📫 Let's Connect!
+
+Check out my projects and connect with me on
+LinkedIn
+
+🛠️ Still building. Always learning — from frontend to ERP integration.
